@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'xtregtwo': Panel regression with standard errors robust to two-way clustering and serial correlation in time effects Use xtregtwo With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f xtregtwo.ado
+f xtregtwo.sthlp
