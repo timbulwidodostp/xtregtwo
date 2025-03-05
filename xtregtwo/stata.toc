@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p xtregtwo Panel regression with standard errors robust to two-way clustering and serial correlation in time effects Use xtregtwo With STATA 18
