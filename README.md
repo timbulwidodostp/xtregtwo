@@ -1,6 +1,8 @@
 # xtregtwo
 Panel regression with standard errors robust to two-way clustering and serial correlation in time effects Use xtregtwo With STATA 18
 
+https://www.youtube.com/watch?v=RqcyMZQSbi8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
